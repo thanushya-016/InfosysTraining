@@ -1,0 +1,9 @@
+path: 'C:\Users\thanu\code2024\Infosys Internship\Detection_model\data.yaml'
+train: 'C:\Users\thanu\code2024\Infosys Internship\Detection_model\dataset\dataset\dataset\images\train'
+val: 'C:\Users\thanu\code2024\Infosys Internship\Detection_model\dataset\dataset\dataset\images\val'
+
+
+names:
+  0: name
+  1: uid
+  2: address
